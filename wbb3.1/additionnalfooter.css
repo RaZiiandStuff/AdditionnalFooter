@@ -1,0 +1,23 @@
+.additionalFooterContent p {
+    margin-bottom:3px;
+    font-size:1.1em;
+}
+.additionalFooterContent h3, .additionalFooterContent, .footerMenu li, .footerOptions li {
+    border-color: #4E5055 !important;
+}
+.additionalFooterContent {
+    padding:10px 0;
+    color:#ccc;
+}
+.additionalFooterContent h3 {
+    border-bottom:solid 1px;
+}
+.footerContent1 h3, .footerContent2 h3, .footerContent3 h3{
+    margin-right:10px;
+}
+.footerContent1, .footerContent2, .footerContent3, .footerContent4 {
+    float: left;
+    width: 25%;
+}
+#footerContainer {
+    color:#ccc;
